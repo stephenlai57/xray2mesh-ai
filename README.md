@@ -16,22 +16,15 @@ By combining **Convolutional Neural Networks (CNNs)** for feature extraction and
 
 ## 🎯 Objectives
 
-- 📸 Extract spatial features from dual-view X-rays using transfer learning.
-- 🧬 Reconstruct detailed 3D models using a GAN-based generator-discriminator framework.
-- 🧪 Validate reconstruction accuracy with ground truth 3D models (e.g., from CT).
-- 💡 Enable AI-assisted diagnostics, surgical planning, and medical education.
+- 📸 Extract spatial features from dual-view X-rays using transfer learning
+- 🧬 Reconstruct detailed 3D models using a GAN-based generator-discriminator framework
+- 🧪 Validate reconstruction accuracy with ground truth 3D models (e.g., from CT)
 
 ---
 
 ## 🛠️ Technologies & Tools
 
 - **Python 3.11**
-- **PyTorch** & `torchvision`
-- **Xception** (via `timm`) for deep feature extraction
-- **GAN** (custom architecture)
-- **Trimesh / PyVista** for 3D mesh visualization
-- **OpenCV** for image preprocessing
-- **Matplotlib / TensorBoard** for monitoring & visualization
 
 ---
 
