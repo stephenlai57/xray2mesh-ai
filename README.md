@@ -1,6 +1,6 @@
 # 🧠 Revolutionizing Medical Imaging: AI-Driven 3D Reconstruction from Bi-Planar X-Ray Scans
 
-![3D Reconstruction Demo](reports/figures/3d_example.png)
+<img width="1092" alt="image" src="https://github.com/user-attachments/assets/abdb690f-7f28-4092-a09c-5ab3cbde3af4" />
 
 > **A cutting-edge deep learning pipeline for reconstructing accurate 3D anatomical models from dual-view 2D X-rays — advancing radiology, diagnostics, and surgical planning.**
 
